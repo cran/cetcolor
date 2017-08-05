@@ -1,0 +1,17 @@
+f184847865fef385b3b1d3b935377e84 *DESCRIPTION
+77baf762780ff57bfc55ece68614abbd *NAMESPACE
+b1d579048657b0564b266bcd4096b3ec *NEWS.md
+5a9bf1e01860f4101fbff6b1dc5857b1 *R/cet_color_maps.R
+c568ae3610b72dde0b67de8dddb2bbd1 *R/cetcolor.R
+b0cea95b61ded0435d6cb6905c4f05af *R/display_cet.R
+628146d699d4c31b166761f29e6a1589 *README.md
+61833b806e7f32b53147169f27763a57 *build/vignette.rds
+6fedb2ea55ea3a72dc6491b5af375e31 *data/cet_color_maps.rda
+a1ae3478e448cb784c48890cba2bced9 *inst/doc/cet_color_schemes.R
+278ebf5ee05d5532d193ef734a3ad360 *inst/doc/cet_color_schemes.Rmd
+4e421b29a1d7836cd4b43259b6b3606d *inst/doc/cet_color_schemes.html
+0f7e0f26111234b4b6f667e3b435abf6 *man/cet_color_maps.Rd
+3ee03dee929bcbc75a8eef1b44e8f7c8 *man/cet_pal.Rd
+c9e1998ee62d90dcd2e4f5d29d8525cd *man/display_cet.Rd
+6aa02d28ac6d5cce908717f3e183dce8 *vignettes/cet.bib
+278ebf5ee05d5532d193ef734a3ad360 *vignettes/cet_color_schemes.Rmd
